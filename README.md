@@ -1,2 +1,2 @@
 # My-SQL-requests
-My SQL requests to get the certificate
+My SQL requests made during the certificate getting
